@@ -82,6 +82,7 @@
     <Compile Include="Assets\Scripts\Wall.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\TutorialInfo.cs" />
+    <Compile Include="Assets\welcomeScript.cs" />
     <None Include="Assets\streamingAssets\mapData.txt" />
     <None Include="Assets\TutorialInfo\Fonts\LICENSE.txt" />
     <None Include="Assets\Fonts\OFL.txt" />

@@ -30,6 +30,7 @@ public class GameManager : MonoBehaviour {
 	public Canvas canvas;
 
 	void Awake () {
+        
 		if(instance == null){
 			instance = this;
 		}else if(instance != this){

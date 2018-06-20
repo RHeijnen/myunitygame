@@ -38,72 +38,14 @@ Hint 3: Een individu zijn gegevens kunnen om meerdere redenen worden gewist. Ond
 Hint 2: Data is anoniem als deze niet terug te leiden is naar de gebruiker
 Hint 3: Termen zoals, ‘data wordt gebruikt om de user experience te verbeteren’ of voor ‘marketing doeleinden’ is niet meer specifiek genoeg om een gebruiker zijn data te mogen verzamelen en verwerken</option4>
 	</Question>
-	
-	
-	
-		<Question correct="1">
+	<Question correct="2">
 		<questionText>Welke stelling is onjuist?</questionText>
-		<option1>Als toestemming is gegeven om de camera te gebruiken, kan een app deze op elk moment activeren. Ook als de gebruiker niets door heeft.</option1>
-		<option2>Gebruikers hebben hun app altijd onder controle. Als toestemming wordt gegeven om een camera te gebruiken, kan een app deze pas gebruiken als de gebruiker deze activeert.</option2>
-		<option3>Als een persoon wordt gefilmd binnen een bedrijf, mag deze persoon eisen de beelden terug te zien.</option3>
-		<option4>Bedrijven mogen data van een gebruiker niet verwerken als hier geen toestemming voor is gegeven.</option4>
+		<option1>Een bedrijf mag camerabeelden maar 30 dagen vasthouden.</option1>
+		<option2>Een bedrijf mag je binnen hun bedrijf filmen, ook al is dit nergens aangegeven</option2>
+		<option3>Data mining voor marketing is niet toegestaan</option3>
+		<option4>Hint 1:  Als je vast staat op beelden, is dit ook een vorm van persoonlijke data
+Hint 2: Er moet aangegeven zijn binnen een bedrijf dat er gefilmd wordt
+Hint 3: Klanten moeten expliciet weten voor welke doeleinden hun data wordt gebruikt</option4>
 	</Question>
-
-	<Question correct="3">
-		<questionText>Hoe lang mogen camera beelden bewaard blijven?</questionText>
-		<option1>Max 1 week</option1>
-		<option2>Max 2 weken</option2>
-		<option3>Max 8 weken</option3>
-		<option4>Max 4 weken</option4>
-		
-	</Question>
-
-	<Question correct="3">
-		<questionText>Wat is de maximale boete voor het overtreden van de wet bescherming persoonsgegevens</questionText>
-		<option1>Maximaal 100.000 euro</option1>
-		<option2>Maximaal 10.000 euro</option2>
-		<option3>Maximaal 800.000 euro</option3>
-		<option4>Maximaal 200.000</option4>
-	</Question>
-
-	<Question correct="1">
-		<questionText>Is het toegestaan om een vrachtwagenchauffeur te tracken met GPS</questionText>
-		<option1>Ja dit is toegestaan</option1>
-		<option2>Ja dit is toegestaan maar met beperkingen</option2>
-		<option3>Nee dat mag niet van de wet</option3>
-		<option4>Alleen als de chauffeur misbruik heeft gemaakt.</option4>
-	</Question>
-
-	<Question correct="1">
-		<questionText>Is het toegestaan om een vrachtwagenchauffeur te tracken met GPS</questionText>
-		<option1>Ja dit is toegestaan</option1>
-		<option2>Ja dit is toegestaan maar met beperkingen</option2>
-		<option3>Nee dat mag niet van de wet</option3>
-		<option4>Alleen als de chauffeur misbruik heeft gemaakt.</option4>
-	</Question>
-
-	<Question correct="1">
-		<questionText>Mogen bedrijven data van een gebruiker verwerken voor marketingdoeleinden</questionText>
-		<option1>Ja maar beperkt</option1>
-		<option2>Ze kunnen alles met je data doen</option2>
-		<option3>Nee dit mag niet</option3>
-		<option4>Nee maar er zijn uitzonderingen</option4>
-	</Question>
-
-
-	<Question correct="1">
-		<questionText>Mag je CV's van solicitanten op de computer opslaan als je ze niet aanneemt</questionText>
-		<option1>Ja dat mag</option1>
-		<option2>Je moet het verwijderen na het gesprek</option2>
-		<option3>Je mag de data doorverkopen</option3>
-		<option4>Nee dat mag niet</option4>
-	</Question>
-
-		<Question correct="3">
-		<questionText>Mag je foto's maken waar mensen in te herkennen zijn</questionText>
-		<option1>Ja dat mag</option1>
-		<option2>Ja alleen als je er geen gekd aan verdient</option2>
-		<option3>Nee dit mag niet</option3>
-		<option4>Ja je mag ook gezichtherkenning gebruiken</option4>
-	</Question>
+	
 </Questions>

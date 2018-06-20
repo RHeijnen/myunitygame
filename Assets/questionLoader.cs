@@ -1,9 +1,8 @@
-﻿using System.IO;
-using System.Xml;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections.Generic;
+using UnityEditor;
 
 public class Question
 {
@@ -25,6 +24,12 @@ public class questionLoader : MonoBehaviour {
     void Start () {
         // change content based on this int 
         Debug.Log(GameManager.questionID);
+        if (GameManager.QuestionList.Count == 0)
+        {
+            endGame();
+            return;
+        }
+        
         Question q = GameManager.QuestionList[0];
         questionText.text = q.question;
         anwer1Text.text = q.answer[0];
@@ -34,7 +39,12 @@ public class questionLoader : MonoBehaviour {
         correctValue = q.correctAnswer;
         GameManager.QuestionList.RemoveAt(0);
     }
-	
+
+	void endGame()
+    {
+        EditorUtility.DisplayDialog("Game over", "You have answered all the questions. Your score was: " + score.value, "OK");
+    }
+
 	// Update is called once per frame
 	void Update () {
         
@@ -61,6 +71,7 @@ public class questionLoader : MonoBehaviour {
         //TODO Doe wat er ook moet gebeuren wanneer het antwoord goed is.
         SceneManager.UnloadSceneAsync("questionScne");
         if( answer == correctValue) score.value += 1;
+        if (GameManager.QuestionList.Count == 0) endGame();
         return answer == correctValue;
 
     }
