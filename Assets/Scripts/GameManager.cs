@@ -23,6 +23,8 @@ public class GameManager : MonoBehaviour {
 	public int lastVisitedQY = 0;
 	public static int questionID = -1;
 	public static int infoID = -1;
+	public infoboxcontroller ibc;
+	public Canvas canvas;
 
 	void Awake () {
 		if(instance == null){
@@ -30,6 +32,7 @@ public class GameManager : MonoBehaviour {
 		}else if(instance != this){
 			Destroy(gameObject);
 		}
+		canvas = GetComponent<Canvas>();
 		enemies = new List<Enemy>();
 		DontDestroyOnLoad(gameObject);		
 		boardScript = GetComponent<BoardManager>();
@@ -74,7 +77,10 @@ public class GameManager : MonoBehaviour {
 
 	}
 	public void infoBox(infoTrigger ib){
+			// ibc = GetComponent<infoboxcontroller>();
 			Debug.Log("infobox: "+ib.infoID);
+			ibc = canvas.GetComponent<infoboxcontroller>();
+			Debug.Log(ibc.contentID);
 			// create canvas shizzle..
 	}
 	public void AddEnemyToList(Enemy script){

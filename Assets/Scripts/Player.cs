@@ -95,14 +95,15 @@ public class Player : MovingObject {
 			// enabled = false;
 			// Debug.Log("Reached the stairs, gz!");
 		}
-		
+
 		else if(other.tag == "Enemy"){
 			Debug.Log("Enemy! lookout");
 		}
 
 		else if(other.tag == "question"){
 			questionTrigger qt = other.GetComponent<questionTrigger>();
-			// Debug.Log(" question: "+qt.questionID);
+			// destroying it here for easyness.
+			Destroy(other);
 			GameManager.instance.sceneChange(qt);
 		}
 
