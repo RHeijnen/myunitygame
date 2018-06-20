@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour {
 	public float turnDelay = 0f;
@@ -18,6 +19,10 @@ public class GameManager : MonoBehaviour {
 	private int level = 1;
 	public int playerFoodPoints = 100;
 	[HideInInspector]public bool playersTurn = true;
+	public int lastVisitedQX = 0;
+	public int lastVisitedQY = 0;
+	public static int questionID = -1;
+	public static int infoID = -1;
 
 	void Awake () {
 		if(instance == null){
@@ -58,9 +63,19 @@ public class GameManager : MonoBehaviour {
 		if(playersTurn || enemyesMoving || doingSetup){
 			return;
 		}	
-		
 		StartCoroutine(MoveEnemies());
 
+	}
+	public void sceneChange(questionTrigger qt){
+			Debug.Log("question: "+qt.questionID);
+			lastVisitedQX = (int)qt.transform.position.x;	
+			lastVisitedQY = (int)qt.transform.position.y;	
+			SceneManager.LoadScene("questionScne", LoadSceneMode.Additive);
+
+	}
+	public void infoBox(infoTrigger ib){
+			Debug.Log("infobox: "+ib.infoID);
+			// create canvas shizzle..
 	}
 	public void AddEnemyToList(Enemy script){
 		enemies.Add(script);

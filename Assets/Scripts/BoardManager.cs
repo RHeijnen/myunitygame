@@ -106,11 +106,11 @@ public class BoardManager : MonoBehaviour {
 		}
 	}
 	public void startBattleScene(){
-				int player_x = (int)player.transform.position.x;	
-				int player_y = (int)player.transform.position.y;	
-				
-				// GameObject toInstantiate = floorTiles[1];
-				// GameObject instance = Instantiate(toInstantiate, new Vector3 (player_y,player_x,-2f), Quaternion.identity) as GameObject;   
+		int player_x = (int)player.transform.position.x;	
+		int player_y = (int)player.transform.position.y;	
+		
+		// GameObject toInstantiate = floorTiles[1];
+		// GameObject instance = Instantiate(toInstantiate, new Vector3 (player_y,player_x,-2f), Quaternion.identity) as GameObject;   
 
 	}
 	void updateBoard(){

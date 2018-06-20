@@ -95,20 +95,24 @@ public class Player : MovingObject {
 			// enabled = false;
 			// Debug.Log("Reached the stairs, gz!");
 		}
+		
 		else if(other.tag == "Enemy"){
 			Debug.Log("Enemy! lookout");
 		}
+
 		else if(other.tag == "question"){
 			questionTrigger qt = other.GetComponent<questionTrigger>();
-			Debug.Log(" question: "+qt.questionID);
-			SceneManager.LoadScene("questionScne", LoadSceneMode.Additive);
-
+			// Debug.Log(" question: "+qt.questionID);
+			GameManager.instance.sceneChange(qt);
 		}
+
 		else if(other.tag == "info"){
 			infoTrigger it = other.GetComponent<infoTrigger>();
-			Debug.Log(" info: "+it.infoID);
+			// Debug.Log(" info: "+it.infoID);
+			GameManager.instance.infoBox(it);
 		}
  
+
 	}
 
 

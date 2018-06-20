@@ -18,6 +18,9 @@ public class questionLoader : MonoBehaviour {
     private int correctValue = -1;
     // Use this for initialization
     void Start () {
+        // change content based on this int 
+        Debug.Log(GameManager.questionID);
+
         string stringAsset = (Resources.Load("questions") as TextAsset).ToString();
         XmlDocument xmlDoc = new XmlDocument();
         xmlDoc.Load(new StringReader(stringAsset));
