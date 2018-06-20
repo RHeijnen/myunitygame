@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using System.Xml;
+using System.IO;
 
 public class GameManager : MonoBehaviour {
 	public float turnDelay = 0f;
@@ -22,7 +24,8 @@ public class GameManager : MonoBehaviour {
 	public int lastVisitedQX = 0;
 	public int lastVisitedQY = 0;
 	public static int questionID = -1;
-	public static int infoID = -1;
+    public static List<Question> QuestionList = new List<Question>();
+    public static int infoID = -1;
 	public infoboxcontroller ibc;
 	public Canvas canvas;
 
@@ -48,6 +51,7 @@ public class GameManager : MonoBehaviour {
 		// levelImage.SetActive(true);
 		Invoke("HideLevelImage",levelStartDelay);
 		enemies.Clear();
+        LoadQuestions();
 		boardScript.SetupScene(level);
 
 	}
@@ -60,6 +64,32 @@ public class GameManager : MonoBehaviour {
 		// levelImage.SetActive(true);
 		// enabled = false;
 	}
+
+    public void LoadQuestions()
+    {
+        string stringAsset = (Resources.Load("questions") as TextAsset).ToString();
+        XmlDocument xmlDoc = new XmlDocument();
+        xmlDoc.Load(new StringReader(stringAsset));
+        string xmlPathPattern = "//Questions/Question";
+        XmlNodeList myNodeList = xmlDoc.SelectNodes(xmlPathPattern);
+
+        foreach (XmlNode node in myNodeList)
+        {
+            string corr = node.Attributes.GetNamedItem("correct").Value;
+            XmlNode question = node.FirstChild;
+            XmlNode o1 = question.NextSibling;
+            XmlNode o2 = o1.NextSibling;
+            XmlNode o3 = o2.NextSibling;
+            XmlNode o4 = o3.NextSibling;
+            GameManager.QuestionList.Add(new Question()
+            {
+                question = question.InnerText,
+                answer = new List<string>() { o1.InnerText, o2.InnerText, o3.InnerText, o4.InnerText },
+                correctAnswer = int.Parse(corr)
+            });
+        }
+    }
+
 	
 	// Update is called once per frame
 	void Update () {
