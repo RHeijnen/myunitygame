@@ -1,400 +1,693 @@
-D:\School projects\myunitygame\Temp\bin\Debug\Assembly-CSharp-Editor.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
-D:\School projects\myunitygame\Temp\bin\Debug\Boo.Lang.dll
-D:\School projects\myunitygame\Temp\bin\Debug\mscorlib.dll
-D:\School projects\myunitygame\Temp\bin\Debug\nunit.framework.dll
-D:\School projects\myunitygame\Temp\bin\Debug\System.Core.dll
-D:\School projects\myunitygame\Temp\bin\Debug\System.dll
-D:\School projects\myunitygame\Temp\bin\Debug\System.Runtime.Serialization.dll
-D:\School projects\myunitygame\Temp\bin\Debug\System.Xml.dll
-D:\School projects\myunitygame\Temp\bin\Debug\System.Xml.Linq.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.Locator.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.Advertisements.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.Analytics.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.Graphs.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.HoloLens.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.Networking.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.Purchasing.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.StandardEvents.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.TestRunner.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.Timeline.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.TreeEditor.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.UI.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.UIAutomation.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.VR.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.AIModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.Analytics.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.AnimationModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ARModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.AudioModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.BaselibModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ClothModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.CoreModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.DirectorModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.FacebookModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.GridModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.HoloLens.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.InputModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.Networking.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.Purchasing.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.StandardEvents.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TerrainModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TestRunner.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TilemapModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.Timeline.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TimelineModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TLSModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UI.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UIAutomation.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UIModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UmbraModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UNETModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.VideoModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.VRModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.WebModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.WindModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.XRModule.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityScript.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityScript.Lang.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.Cecil.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.SerializationLogic.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.DataContract.dll
-D:\School projects\myunitygame\Temp\bin\Debug\ExCSS.Unity.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Boo.Lang.Parser.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Boo.Lang.Compiler.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.UNetWeaver.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.IvyParser.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.Cecil.Mdb.dll
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Boo.Lang.Useful.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.CecilTools.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Unity.Cecil.Pdb.dll
-D:\School projects\myunitygame\Temp\bin\Debug\Assembly-CSharp.pdb
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.AIModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ARModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.AnimationModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.AudioModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.BaselibModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ClothModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.CoreModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.DirectorModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.FacebookModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.GridModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.InputModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TLSModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TerrainModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TilemapModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TimelineModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UIModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UNETModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UmbraModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.VRModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.VideoModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.WebModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.WindModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.XRModule.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UI.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.UI.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.Networking.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.Networking.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.TestRunner.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.TestRunner.xml
-D:\School projects\myunitygame\Temp\bin\Debug\nunit.framework.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.Timeline.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.Timeline.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.TreeEditor.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.UIAutomation.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.UIAutomation.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.HoloLens.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.HoloLens.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.VR.xml
-D:\School projects\myunitygame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
-D:\School projects\myunitygame\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
-D:\School projects\myunitygame\obj\Debug\Assembly-CSharp-Editor.dll
-D:\School projects\myunitygame\obj\Debug\Assembly-CSharp-Editor.pdb
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Assembly-CSharp-Editor.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Boo.Lang.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\mscorlib.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\nunit.framework.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\System.Core.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\System.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\System.Runtime.Serialization.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\System.Xml.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\System.Xml.Linq.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.Locator.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.Advertisements.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.Analytics.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.Graphs.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.HoloLens.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.Networking.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.Purchasing.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.StandardEvents.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.TestRunner.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.Timeline.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.TreeEditor.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.UI.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.UIAutomation.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.VR.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.AIModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.Analytics.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.AnimationModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ARModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.AudioModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.BaselibModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ClothModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.CoreModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.DirectorModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.FacebookModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.GridModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.HoloLens.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.InputModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.Networking.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.Purchasing.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.StandardEvents.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TerrainModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TestRunner.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TilemapModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.Timeline.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TimelineModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TLSModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UI.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UIAutomation.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UIModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UmbraModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UNETModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.VideoModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.VRModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.WebModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.WindModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.XRModule.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityScript.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityScript.Lang.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.Cecil.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.SerializationLogic.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.DataContract.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\ExCSS.Unity.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Boo.Lang.Parser.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Boo.Lang.Compiler.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.UNetWeaver.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.IvyParser.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.Cecil.Mdb.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Boo.Lang.Useful.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.CecilTools.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Unity.Cecil.Pdb.dll
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\Assembly-CSharp.pdb
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.AIModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ARModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.AnimationModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.AudioModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.BaselibModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ClothModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.CoreModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.DirectorModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.FacebookModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.GridModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.InputModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TLSModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TerrainModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TilemapModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TimelineModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UIModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UNETModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UmbraModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.VRModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.VideoModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.WebModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.WindModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.XRModule.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UI.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.UI.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.Networking.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.Networking.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.TestRunner.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.TestRunner.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\nunit.framework.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.Timeline.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.Timeline.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.TreeEditor.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.UIAutomation.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.UIAutomation.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.HoloLens.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.HoloLens.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.VR.xml
-C:\Users\MarkH\Documents\myunitygame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
-C:\Users\MarkH\Documents\myunitygame\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-C:\Users\MarkH\Documents\myunitygame\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
-C:\Users\MarkH\Documents\myunitygame\obj\Debug\Assembly-CSharp-Editor.csproj.CopyComplete
-C:\Users\MarkH\Documents\myunitygame\obj\Debug\Assembly-CSharp-Editor.dll
-C:\Users\MarkH\Documents\myunitygame\obj\Debug\Assembly-CSharp-Editor.pdb
+D:/School projects/myunitygame/Temp/bin/Debug/Assembly-CSharp-Editor.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Assembly-CSharp-Editor.pdb
+D:/School projects/myunitygame/Temp/bin/Debug/Boo.Lang.dll
+D:/School projects/myunitygame/Temp/bin/Debug/mscorlib.dll
+D:/School projects/myunitygame/Temp/bin/Debug/nunit.framework.dll
+D:/School projects/myunitygame/Temp/bin/Debug/System.Core.dll
+D:/School projects/myunitygame/Temp/bin/Debug/System.dll
+D:/School projects/myunitygame/Temp/bin/Debug/System.Runtime.Serialization.dll
+D:/School projects/myunitygame/Temp/bin/Debug/System.Xml.dll
+D:/School projects/myunitygame/Temp/bin/Debug/System.Xml.Linq.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.Locator.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.Advertisements.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.Analytics.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.Graphs.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.HoloLens.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.Networking.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.Purchasing.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.TestRunner.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.Timeline.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.UI.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.VR.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.AIModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.Analytics.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ARModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.AudioModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ClothModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.CoreModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.GridModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.HoloLens.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.InputModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.Networking.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.Purchasing.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TestRunner.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.Timeline.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TLSModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UI.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UIModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UNETModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.VideoModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.VRModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.WebModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.WindModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.XRModule.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityScript.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityScript.Lang.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.Cecil.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.SerializationLogic.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.DataContract.dll
+D:/School projects/myunitygame/Temp/bin/Debug/ExCSS.Unity.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Boo.Lang.Parser.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Boo.Lang.Compiler.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.UNetWeaver.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.IvyParser.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Boo.Lang.Useful.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.CecilTools.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+D:/School projects/myunitygame/Temp/bin/Debug/Assembly-CSharp.pdb
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.AIModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ARModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.AudioModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ClothModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.CoreModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.GridModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.InputModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TLSModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UIModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UNETModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.VRModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.VideoModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.WebModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.WindModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.XRModule.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UI.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.UI.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.Networking.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.Networking.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.TestRunner.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.TestRunner.xml
+D:/School projects/myunitygame/Temp/bin/Debug/nunit.framework.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.Timeline.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.Timeline.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.TreeEditor.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.UIAutomation.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.UIAutomation.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.HoloLens.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.HoloLens.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.SpatialTracking.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.VR.xml
+D:/School projects/myunitygame/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+D:/School projects/myunitygame/obj/Debug/Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+D:/School projects/myunitygame/obj/Debug/Assembly-CSharp-Editor.dll
+D:/School projects/myunitygame/obj/Debug/Assembly-CSharp-Editor.pdb
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Assembly-CSharp-Editor.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Assembly-CSharp-Editor.pdb
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Boo.Lang.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/mscorlib.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/nunit.framework.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/System.Core.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/System.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/System.Runtime.Serialization.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/System.Xml.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/System.Xml.Linq.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.Locator.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.Advertisements.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.Analytics.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.Graphs.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.HoloLens.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.Networking.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.Purchasing.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.TestRunner.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.Timeline.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.UI.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.VR.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.AIModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.Analytics.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ARModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.AudioModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ClothModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.CoreModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.GridModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.HoloLens.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.InputModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.Networking.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.Purchasing.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TestRunner.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.Timeline.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TLSModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UI.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UIModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UNETModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.VideoModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.VRModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.WebModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.WindModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.XRModule.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityScript.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityScript.Lang.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.Cecil.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.SerializationLogic.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.DataContract.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/ExCSS.Unity.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Boo.Lang.Parser.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Boo.Lang.Compiler.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.UNetWeaver.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.IvyParser.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Boo.Lang.Useful.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.CecilTools.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/Assembly-CSharp.pdb
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.AIModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ARModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.AudioModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ClothModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.CoreModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.GridModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.InputModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TLSModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UIModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UNETModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.VRModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.VideoModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.WebModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.WindModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.XRModule.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UI.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.UI.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.Networking.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.Networking.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.TestRunner.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.TestRunner.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/nunit.framework.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.Timeline.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.Timeline.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.TreeEditor.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.UIAutomation.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.UIAutomation.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.HoloLens.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.HoloLens.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.SpatialTracking.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.VR.xml
+C:/Users/MarkH/Documents/myunitygame/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+C:/Users/MarkH/Documents/myunitygame/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+C:/Users/MarkH/Documents/myunitygame/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+C:/Users/MarkH/Documents/myunitygame/obj/Debug/Assembly-CSharp-Editor.csproj.CopyComplete
+C:/Users/MarkH/Documents/myunitygame/obj/Debug/Assembly-CSharp-Editor.dll
+C:/Users/MarkH/Documents/myunitygame/obj/Debug/Assembly-CSharp-Editor.pdb
+/Users/kevin/myunitygame/Temp/bin/Debug/Assembly-CSharp-Editor.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Assembly-CSharp-Editor.pdb
+/Users/kevin/myunitygame/Temp/bin/Debug/Boo.Lang.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/mscorlib.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/nunit.framework.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Bridge.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/System.Core.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/System.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/System.Xml.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.Locator.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.WebModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityScript.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.Cecil.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/SyntaxTree.VisualStudio.Unity.Messaging.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/System.Configuration.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/kevin/myunitygame/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.WebModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.WebModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UIAutomation.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UIAutomation.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.UIAutomation.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.UIAutomation.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.TestRunner.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.TestRunner.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TestRunner.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.TestRunner.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/nunit.framework.pdb
+/Users/kevin/myunitygame/Temp/bin/Debug/nunit.framework.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Networking.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Networking.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.UI.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Timeline.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Timeline.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.TreeEditor.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.TreeEditor.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.HoloLens.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.HoloLens.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.SpatialTracking.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.SpatialTracking.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.VR.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.VR.xml
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Graphs.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Advertisements.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Analytics.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.Purchasing.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.Purchasing.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/kevin/myunitygame/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/kevin/myunitygame/obj/Debug/Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache
+/Users/kevin/myunitygame/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+/Users/kevin/myunitygame/obj/Debug/Assembly-CSharp-Editor.dll
+/Users/kevin/myunitygame/obj/Debug/Assembly-CSharp-Editor.pdb

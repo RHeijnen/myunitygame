@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Xml;
 using System.IO;
+using UnityEditor;
 
 public class GameManager : MonoBehaviour {
 	public float turnDelay = 0f;
@@ -110,8 +111,16 @@ public class GameManager : MonoBehaviour {
 	public void infoBox(infoTrigger ib){
 			// ibc = GetComponent<infoboxcontroller>();
 			Debug.Log("infobox: "+ib.infoID);
-			ibc = canvas.GetComponent<infoboxcontroller>();
-			Debug.Log(ibc.contentID);
+
+            Question q = GameManager.QuestionList[0];
+
+        Debug.Log(q);
+
+        EditorUtility.DisplayDialog("Title here", q.answer[3], "Ok");
+
+
+			//ibc = canvas.GetComponent<infoboxcontroller>();
+			//Debug.Log(ibc.contentID);
 			// create canvas shizzle..
 	}
 	public void AddEnemyToList(Enemy script){

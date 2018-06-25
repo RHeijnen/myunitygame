@@ -71,6 +71,12 @@ public class questionLoader : MonoBehaviour {
         //TODO Doe wat er ook moet gebeuren wanneer het antwoord goed is.
         SceneManager.UnloadSceneAsync("questionScne");
         if( answer == correctValue) score.value += 1;
+
+
+        EditorUtility.DisplayDialog("Resultaat", "Het juiste antwoord is " + correctValue,  "OK");
+
+
+
         if (GameManager.QuestionList.Count == 0) endGame();
         return answer == correctValue;
 
