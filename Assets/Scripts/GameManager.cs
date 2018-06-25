@@ -29,6 +29,7 @@ public class GameManager : MonoBehaviour {
     public static int infoID = -1;
 	public infoboxcontroller ibc;
 	public Canvas canvas;
+    public static List<QuizModel> quizModel = new List<QuizModel>();
 
 	void Awake () {
         
@@ -66,6 +67,7 @@ public class GameManager : MonoBehaviour {
 		// levelImage.SetActive(true);
 		// enabled = false;
 	}
+
 
     public void LoadQuestions()
     {

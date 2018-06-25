@@ -65,6 +65,7 @@
     <Compile Include="Assets\questionController.cs" />
     <Compile Include="Assets\questionLoader.cs" />
     <Compile Include="Assets\questionTrigger.cs" />
+    <Compile Include="Assets\QuizModel.cs" />
     <Compile Include="Assets\Scripts\BoardManager.cs" />
     <Compile Include="Assets\Scripts\clickEvent.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
