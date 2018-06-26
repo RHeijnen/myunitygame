@@ -9,8 +9,14 @@ public class Question
     public string question = "";
     public List<string> answer = new List<string>();
     public int correctAnswer = -1;
+    public string explaination = "";
 }
 
+public class Answer
+{
+    public Question Question;
+    public int GivenAnswer;
+}
 
 public class questionLoader : MonoBehaviour {
 
@@ -19,6 +25,7 @@ public class questionLoader : MonoBehaviour {
     public Text anwer2Text;
     public Text anwer3Text;
     public Text anwer4Text;
+    private Question q;
     private int correctValue = -1;
     // Use this for initialization
     void Start () {
@@ -26,11 +33,10 @@ public class questionLoader : MonoBehaviour {
         Debug.Log(GameManager.questionID);
         if (GameManager.QuestionList.Count == 0)
         {
-            endGame();
-            return;
+            EditorApplication.isPlaying = false;
         }
         
-        Question q = GameManager.QuestionList[0];
+        q = GameManager.QuestionList[0];
         questionText.text = q.question;
         anwer1Text.text = q.answer[0];
         anwer2Text.text = q.answer[1];
@@ -39,11 +45,7 @@ public class questionLoader : MonoBehaviour {
         correctValue = q.correctAnswer;
         GameManager.QuestionList.RemoveAt(0);
     }
-
-	void endGame()
-    {
-        EditorUtility.DisplayDialog("Game over", "You have answered all the questions. Your score was: " + score.value, "OK");
-    }
+    
 
 	// Update is called once per frame
 	void Update () {
@@ -71,13 +73,18 @@ public class questionLoader : MonoBehaviour {
         //TODO Doe wat er ook moet gebeuren wanneer het antwoord goed is.
         SceneManager.UnloadSceneAsync("questionScne");
         if( answer == correctValue) score.value += 1;
-
+        GameManager.Answers.Add(new Answer()
+        {
+            Question = q,
+            GivenAnswer = answer
+        });
 
         EditorUtility.DisplayDialog("Resultaat", "Het juiste antwoord is " + correctValue,  "OK");
 
-
-
-        if (GameManager.QuestionList.Count == 0) endGame();
+        if (GameManager.QuestionList.Count == 0)
+        {
+            SceneManager.LoadScene("resultScene", LoadSceneMode.Single);
+        }
         return answer == correctValue;
 
     }

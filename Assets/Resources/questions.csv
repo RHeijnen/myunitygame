@@ -8,6 +8,7 @@
 Hint 2: Gebruikers letten vaak niet op waar ze toestemming voor geven
 Hint 3: De permissies waar een app toegang tot heeft, kan in sommige gevallen worden aangepast.
 </option4>
+<explaination>Als toestemming is gegeven om de camera te gebruiken, kan een app deze op elk moment activeren. Ook als de gebruiker niets door heeft.</explaination>
 	</Question>
 	<Question correct="3">
 		<questionText>Welke stelling is onjuist?</questionText>
@@ -18,18 +19,9 @@ Hint 3: De permissies waar een app toegang tot heeft, kan in sommige gevallen wo
 Hint 2: In Incognito mode worden je browsergegevens alsnog bijgehouden door je ISP
 Hint 3: Een individu zijn gegevens kunnen om meerdere redenen worden gewist. Onder andere: het doeleinde waar de data voor wordt gebruikt is voltooid of een gebruiker gaat niet langer akkoord met de verwerking van zijn data
 </option4>
+<explaination>Incognito Mode beschermt de privacy van gebruikers.</explaination>
 	</Question>
-	<Question correct="3">
-		<questionText>Welke stelling is onjuist?</questionText>
-		<option1>Je hebt het recht om je data te laten wissen bij een bedrijf</option1>
-		<option2>Je internet service provider mag niet zomaar je data bekijken</option2>
-		<option3>Incognito Mode beschermt de privacy van gebruikers </option3>
-		<option4>Hint 1: Eenmaal op een site beland kan een site je ingevulde gegevens en je bewegingen door de site heen bijhouden.
-Hint 2: In Incognito mode worden je browsergegevens alsnog bijgehouden door je ISP
-Hint 3: Een individu zijn gegevens kunnen om meerdere redenen worden gewist. Onder andere: het doeleinde waar de data voor wordt gebruikt is voltooid of een gebruiker gaat niet langer akkoord met de verwerking van zijn data
-</option4>
-	</Question>
-	<Question correct="3">
+		<Question correct="3">
 		<questionText>Welke stelling is onjuist?</questionText>
 		<option1>Naast adres en telefoonnummers zijn ook ip, mac adres en cookies persoonlijke data.</option1>
 		<option2>Anonieme data is ook  persoonlijke data</option2>
@@ -37,8 +29,9 @@ Hint 3: Een individu zijn gegevens kunnen om meerdere redenen worden gewist. Ond
 		<option4>Hint 1: Met de GDPR is de definitie van persoonlijke data uitgebreid. Alles wat nu kan leiden tot identificatie is persoonlijke data
 Hint 2: Data is anoniem als deze niet terug te leiden is naar de gebruiker
 Hint 3: Termen zoals, ‘data wordt gebruikt om de user experience te verbeteren’ of voor ‘marketing doeleinden’ is niet meer specifiek genoeg om een gebruiker zijn data te mogen verzamelen en verwerken</option4>
+<explaination>Data mag alleen gebruikt worden voor specifieke aangegeven doeleinden.</explaination>
 	</Question>
-	<Question correct="2">
+		<Question correct="2">
 		<questionText>Welke stelling is onjuist?</questionText>
 		<option1>Een bedrijf mag camerabeelden maar 30 dagen vasthouden.</option1>
 		<option2>Een bedrijf mag je binnen hun bedrijf filmen, ook al is dit nergens aangegeven</option2>
@@ -46,6 +39,6 @@ Hint 3: Termen zoals, ‘data wordt gebruikt om de user experience te verbeteren
 		<option4>Hint 1:  Als je vast staat op beelden, is dit ook een vorm van persoonlijke data
 Hint 2: Er moet aangegeven zijn binnen een bedrijf dat er gefilmd wordt
 Hint 3: Klanten moeten expliciet weten voor welke doeleinden hun data wordt gebruikt</option4>
+<explaination>Een bedrijf mag je binnen hun bedrijf filmen, ook al is dit nergens aangegeven.</explaination>
 	</Question>
-	
 </Questions>

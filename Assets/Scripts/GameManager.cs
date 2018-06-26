@@ -26,6 +26,7 @@ public class GameManager : MonoBehaviour {
 	public int lastVisitedQY = 0;
 	public static int questionID = -1;
     public static List<Question> QuestionList = new List<Question>();
+    public static List<Answer> Answers = new List<Answer>();
     public static int infoID = -1;
 	public infoboxcontroller ibc;
 	public Canvas canvas;
@@ -83,11 +84,13 @@ public class GameManager : MonoBehaviour {
             XmlNode o2 = o1.NextSibling;
             XmlNode o3 = o2.NextSibling;
             XmlNode o4 = o3.NextSibling;
+            XmlNode ex = o4.NextSibling;
             GameManager.QuestionList.Add(new Question()
             {
                 question = question.InnerText,
                 answer = new List<string>() { o1.InnerText, o2.InnerText, o3.InnerText, o4.InnerText },
-                correctAnswer = int.Parse(corr)
+                correctAnswer = int.Parse(corr),
+                explaination = ex.InnerText
             });
         }
     }
@@ -107,7 +110,7 @@ public class GameManager : MonoBehaviour {
 			lastVisitedQY = (int)qt.transform.position.y;	
 			SceneManager.LoadScene("questionScne", LoadSceneMode.Additive);
 
-	}
+    }
 	public void infoBox(infoTrigger ib){
 			// ibc = GetComponent<infoboxcontroller>();
 			Debug.Log("infobox: "+ib.infoID);
