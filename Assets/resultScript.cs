@@ -23,7 +23,7 @@ public class resultScript : MonoBehaviour {
         Answer1Text.text = CurrentAnswer.Question.answer[0];
         Answer2Text.text = CurrentAnswer.Question.answer[1];
         Answer3Text.text = CurrentAnswer.Question.answer[2];
-        Toelichting.text = CurrentAnswer.Question.explaination;
+        Toelichting.text += CurrentAnswer.Question.explaination;
         ProvidedAnswer.text = "You answered this question with option " + CurrentAnswer.GivenAnswer.ToString() + ". \n The correct result was " + CurrentAnswer.Question.correctAnswer + ".";
         GameManager.Answers.RemoveAt(0);
     }
