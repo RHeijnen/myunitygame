@@ -119,7 +119,7 @@ public class GameManager : MonoBehaviour {
 
         Debug.Log(q);
 
-        EditorUtility.DisplayDialog("Title here", q.answer[3], "Ok");
+        EditorUtility.DisplayDialog("Tip", q.answer[3], "Ok");
 
 
 			//ibc = canvas.GetComponent<infoboxcontroller>();
